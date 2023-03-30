@@ -8,3 +8,4 @@ The port forwarder provides the following functionality:
 - supports multiple inbound connection requests, as well as simultaneous two-way traffic
 - only TCP connections are forwarded by basic implementation
 - TCP connections are secured using TSL
+- reads the IP:port combinations to forward to from a separate config file
